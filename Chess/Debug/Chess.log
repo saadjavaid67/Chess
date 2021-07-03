@@ -1,0 +1,5 @@
+﻿  classes.cpp
+C:\Users\saadj\source\repos\Chess\Chess\classes.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\saadj\source\repos\Chess\Chess\classes.cpp(652): warning C4715: 'showMenu': not all control paths return a value
+C:\Users\saadj\source\repos\Chess\Chess\classes.cpp(1245): warning C4715: 'Game::startGame': not all control paths return a value
+  Chess.vcxproj -> C:\Users\saadj\source\repos\Chess\Debug\Chess.exe

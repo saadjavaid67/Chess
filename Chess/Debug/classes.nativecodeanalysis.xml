@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\saadj\source\repos\Chess\Chess\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Piece::symbol' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Piece::{ctor}</FUNCTION>
+    <DECORATED>??0Piece@@QAE@XZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Piece::symbol</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\saadj\source\repos\Chess\Chess\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Piece::player' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Piece::{ctor}</FUNCTION>
+    <DECORATED>??0Piece@@QAE@XZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Piece::player</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\saadj\source\repos\Chess\Chess\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Piece::value' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Piece::{ctor}</FUNCTION>
+    <DECORATED>??0Piece@@QAE@XZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Piece::value</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
